@@ -19,19 +19,19 @@
 <tr style="height: 18px;">
 <td style="width: 25%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp;&nbsp;&nbsp;&nbsp;1</strong></td>
 <td style="width: 56.1245%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp; &nbsp;SEQUENCIA LOGICA</strong></td>
-<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
+<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio1.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
 <td style="width: 17.0063%; height: 18px; text-align: center;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;✔️</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 25%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp;&nbsp;&nbsp;&nbsp;2</strong></td>
 <td style="width: 56.1245%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp; &nbsp;MDC - FIGURINHAS</strong></td>
-<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
+<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio2.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
 <td style="width: 17.0063%; height: 18px; text-align: center;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;✔️</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 25%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp;&nbsp;&nbsp;&nbsp;3</strong></td>
 <td style="width: 56.1245%; height: 18px; text-align: center;"><strong style="font-size: 11px;">&nbsp; &nbsp;TAXA DE IMPOSTO DE RENDA</strong></td>
-<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
+<td style="width: 11.2066%; height: 18px; text-align: center;"><a href="https://github.com/Padawan-ObiWan-Kenobi/Desafios-Developer-Android-DIO/blob/main/Primeiros-Passos-Kotlin/Desafios/Sequ&ecirc;ncia-L&oacute;gica/Solu&ccedil;&atilde;o-Exerc&iacute;cio3.kt" target="_blank"><strong style="font-size: 11px;">&nbsp;&nbsp;C&Oacute;DIGO</strong></a></td>
 <td style="width: 17.0063%; height: 18px; text-align: center;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;✔️</strong></td>
 </tr>
 <tr style="height: 18px;">
